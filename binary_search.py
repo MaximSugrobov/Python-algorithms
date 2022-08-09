@@ -12,4 +12,4 @@ def binary_search(lst, item):
     return print(None)
     
     
-binary_search([1, 3, 5, 7, 9, 11, 21, 33, 58], 3)
+print(binary_search([1, 3, 5, 7, 9, 11, 21, 33, 58], 3))
