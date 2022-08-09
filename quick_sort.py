@@ -1,5 +1,5 @@
 def quick_sort(lst):
-    if len(lst) < 2:
+    if len(lst) < 2
         return lst
     else:
         pivot = lst[0]
